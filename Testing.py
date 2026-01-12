@@ -1,8 +1,7 @@
-"""
-File ini dibuat khusus untuk KEGIATAN TESTING.
-Berisi kata kunci yang sering terdeteksi sebagai sensitive information.
-TIDAK berisi secret asli.
-"""
+
+#File ini dibuat khusus untuk KEGIATAN TESTING.
+#erisi kata kunci yang sering terdeteksi sebagai sensitive information.
+#IDAK berisi secret asli.
 
 # Dummy variables for testing purpose only
 PRIVATE_KEY = "PRIVATE KEY"
